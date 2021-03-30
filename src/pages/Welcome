@@ -5,9 +5,11 @@
         <img src="@/assets/homepage/asset/logo.png" alt="Kitten" />
       </b-navbar-brand>
       <b-navbar-nav class="ml-auto mr-5">
-        <b-nav-item to="/dryskin">Dry Skin</b-nav-item>
+        <b-nav-item to="/welcome">Welcome</b-nav-item>
+        <b-nav-item to="/skin type">Skin type (dry skin)</b-nav-item>
         <b-nav-item to="/login">Consultation</b-nav-item>
         <b-nav-item to="/treatment">Treatment</b-nav-item>
+        <b-nav-item to="/habits">Habits</b-nav-item>
       </b-navbar-nav>
     </b-navbar>
     <div class="row justify-content-center mt-5">
@@ -29,39 +31,27 @@
           >
         </div>
         <p style="text-align: justify; text-justify: newspaper">
-          Hi there! Welcome. This site is made in 2020 to help anyone who
-          suffers from a skin condition that is related to dry skin. It all
-          started with my interest and passion for skincare and the beauty of
-          perfectly imperfect skin. Every human has their skin type and their
-          preferences when it comes to diet, beauty products, skincare, and so
-          many others . <br /><br />Now why dry skin? Well, I experience it
-          myself. Although what I am facing isn't anything severe, there are
-          times where I don't feel confident about it. There are times where I
-          try researching as so as trying products, as it turns out none of them
-          work effectively.They were things that made me a little conscious and
-          scared un-knowing why is it happening to me. As time pass by, I
-          decided to consult my self with a dermatologist. Every time I went
-          there, answers that came back were "it's not something to be afraid
-          of" or "it's nothing severe." But what questioned to my head was, why
-          isn't it gone yet? Until when will I have this condition. In the end,
-          I realize it was genetic, and the only way is to take care of it step
-          by step, little by little. <br /><br />
-          It was a relief knowing what is this? Why is it happening? Knowing
-          these things will guide you on what to do and what to change to
-          minimize your problem. That is why I created this platform for you
-          all, knowing that "dry skin" is a common thing to occur. <br /><br />
-          If you don't know your ways here, here's a little guidance. First,
-          start with the "dry skin" page to add a little knowledge regarding
-          what it is. Next, if you are ready, consult your self by doing a
-          self-check that is accessible on the "consultation" page. It will
-          automatically give you the result on the information about the skin
-          condition you are suffering and guidance to the treatment. For
-          alternative skin care with natural or home based ingredients, 
-          you can go ahead and click on the "treatment" page. After that,
-          check out information about daily habit tips to gain a healthy skin
-          on the "habits"page. 
-          Additionally, All the resources used are on the "resource" page. Now
-          feel free to start! Best regards, Surface.
+          Hi there! Welcome. This site is made in 2020 to help anyone who suffers 
+          from a skin condition related to dry skin. It all started with my interest 
+          and passion for skincare and the beauty of perfectly imperfect skin. Every 
+          human has their skin type and their preferences regarding diet, beauty 
+          products, skincare, and so many others.
+         I hope this website can provide you with a digital alternative to pre-diagnose 
+          your skin and expand your knowledge about dry skin conditions. Here on this 
+          website, you can gain information starting from the definition until the treatment.
+         Before you start, here is a little guidance on this website;
+          Skin type page: Here, you can find brief information about skin type 
+          (for now, only dry skin is available).
+          Consultation: Here, you can pre-diagnose yourself and find out information 
+          regarding the skin condition you are dealing with. Starting with checking out symptoms 
+          that you feel and, as a result, an outcome with coming out as you click the submit button. 
+          Information about the definition and treatment are included.
+          Treatment page:  Here, you can find out information about skincare alternatives from 
+          natural or home base ingredients. 
+          Habit page: Here, you can find information about a daily habit that might affect your skin 
+          condition, dehydrated skin. 
+         Thank you for trusting us, and we really do hope you are satisfied with the facilities we give.
+         Best regards,Arsyi
         </p>
       </div>
     </div>
